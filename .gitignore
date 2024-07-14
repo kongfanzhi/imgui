@@ -59,3 +59,14 @@ examples/example_sdl2_metal/example_sdl2_metal
 examples/example_sdl2_opengl2/example_sdl2_opengl2
 examples/example_sdl2_opengl3/example_sdl2_opengl3
 examples/example_sdl2_sdlrenderer/example_sdl2_sdlrenderer
+bin/Debug-windows-x86_64/ImGui/ImGui.idb
+bin/Debug-windows-x86_64/ImGui/ImGui.lib
+bin-int/Debug-windows-x86_64/ImGui/ImGui.lib.recipe
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/CL.command.1.tlog
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/Cl.items.tlog
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/CL.read.1.tlog
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/CL.write.1.tlog
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/ImGui.lastbuildstate
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/Lib-link.read.1.tlog
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/Lib-link.write.1.tlog
+bin-int/Debug-windows-x86_64/ImGui/ImGui.tlog/Lib.command.1.tlog
